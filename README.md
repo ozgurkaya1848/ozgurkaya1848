@@ -5,7 +5,9 @@
 
 - 📫 Bana nasıl ulaşabilirsiniz **ozgurkaya1848@outlook.com**
 
-<h3 align="left">Benimle iletişime geçin:</h3>
+  <br> <br> <br> <br><br> <br> 
+
+
 <p align="left">
 </p>
 
