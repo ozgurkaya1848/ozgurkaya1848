@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **ozgurkaya1848@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
+<br><br>
 <p align="left">
 </p>
 
