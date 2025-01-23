@@ -1,5 +1,7 @@
 <h1 align="center">Merhaba 👋, ben Özgür</h1>
+<br> <br> <br> <br>
 <h3 align="center">Hevesli bir Full-Stack ve Yazılım Geliştiricisi, her zaman öğrenen ve büyüyen.</h3>
+<br> <br> <br> <br> <br> <br> 
 
 - 📫 Bana nasıl ulaşabilirsiniz **ozgurkaya1848@outlook.com**
 
